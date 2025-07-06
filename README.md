@@ -18,3 +18,9 @@ CamCapture allows users to capture screenshots using their webcam in real-time. 
 - Capture screenshots in real-time using the webcam.
 - Save captured images to a specified directory.
 - Simple and user-friendly command-line interface.
+
+## Demo
+
+Below is an example screenshot of CamCapture detecting motion:
+
+<img src="images/Screenshot_2024-06-17_235018.png" alt="Motion Detection Example" width="600"/>

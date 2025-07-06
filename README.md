@@ -23,4 +23,4 @@ CamCapture allows users to capture screenshots using their webcam in real-time. 
 
 Below is an example screenshot of CamCapture detecting motion:
 
-<img src="images/Screenshot_2024-06-17_235018.png" alt="Motion Detection Example" width="600"/>
+[![Motion Detection Screenshot](images/Screenshot_2024-06-17_235018.png)](images/Screenshot_2024-06-17_235018.png)
